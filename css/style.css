@@ -1,1 +1,17 @@
-/* my css file */
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2c3e50;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+
+}
