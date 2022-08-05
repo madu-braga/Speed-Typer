@@ -56,3 +56,11 @@ select:focus, button:focus{
 .settings.hide{
     transform: translateY(-100%);
 }
+
+.container{
+    background-color: #34495e;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 3px 5px rgba(0,0,0,3);
+    position: relative;
+}
