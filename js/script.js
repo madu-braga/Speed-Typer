@@ -113,3 +113,26 @@ text.addEventListener('input', e => {
     addWordToDOM();
     updateScore();
 
+    // Clear
+    e.target.value = '';
+
+    if (difficulty === 'hard') {
+      time += 1;
+    } else if (difficulty === 'medium') {
+      time += 2;
+    } else {
+      time += 4;
+    }
+
+    updateTime();
+  }
+});
+
+// Settings btn click
+settingsBtn.addEventListener('click', () => settings.classList.toggle('hide'));
+
+// Settings select
+settingsForm.addEventListener('change', e => {
+  difficulty = e.target.value;
+  localStorage.setItem('difficulty', difficulty);
+});
