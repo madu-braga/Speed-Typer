@@ -10,25 +10,27 @@ const difficultySelect = document.getElementById('difficulty');
 
 // words
 const words = [
-    'sigh',
-    'tense',
+    'sing',
+    'sense',
     'airplane',
     'ball',
     'pies',
     'juice',
     'warlike',
-    'bad',
+    'happier',
     'north',
     'dependent',
     'steer',
-    'silver',
+    'salesforce',
     'highfalutin',
+    'kwyboard',
     'superficial',
     'quince',
     'eight',
     'feeble',
     'admit',
-    'drag',
-    'loving'
+    'guitar',
+    'loving',
+    'music'
   ];
   
