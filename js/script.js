@@ -33,4 +33,4 @@ const words = [
     'loving',
     'music'
   ];
-  
+
