@@ -2,10 +2,10 @@
 <p align="center">Game Programming
 
 ## 🎯 Functionalities
-✔️ The program allows the user to test their keyboard speed in a fun way <br>
+✔️ The program allows the user to test their keyboard speed in a fun way; <br>
 ✔️ The code allows the user to play as many times as they want; <br>
 ✔️ The game has an interface and allows difficulty settings; <br>
-✔️ The program is responsive<br>
+✔️ The program is responsive;<br>
 ✔️ The game stores the high score.
 
 ## 🚀 Languages
