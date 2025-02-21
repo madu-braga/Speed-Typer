@@ -13,8 +13,7 @@
 
 ## 🎨 Layout
 <p align="left">
-      <img src="https://cdn.discordapp.com/attachments/901986880357281862/1005296632478314656/unknown.png" width="480"> &nbsp; &nbsp; 
-      <img src="https://cdn.discordapp.com/attachments/901986880357281862/1005296687130083408/unknown.png" width="455"> &nbsp; &nbsp; 
+      <img src="https://cdn.discordapp.com/attachments/901303352883822635/1342542571175542896/image.png?ex=67ba03b4&is=67b8b234&hm=833740f41c13f9583e4ef8e85751645c47321183f76c5ffcd1f3c980e8cd7904&" width="480"> &nbsp; &nbsp; 
       
 ## ⚖️ License
 ✔️ MIT License.
